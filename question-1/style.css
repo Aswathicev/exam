@@ -1,0 +1,12 @@
+h1
+    { 
+      font-size:60px;
+      color:blue;
+      background-color:#aaa;
+    }
+    body
+    { 
+      background-color:red;
+      font-size:40px;
+      text-size:70px;
+    }
